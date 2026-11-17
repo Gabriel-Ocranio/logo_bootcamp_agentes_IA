@@ -1,5 +1,10 @@
 # 🎨 Logo — Bootcamp de Agentes de IA | Deloitte
 
+
+![Logotipo do Bootcamp de Agentes de IA](ativos/Variações%20de%20Logo%20para%20Bootcamp%20de%20IA.png)
+
+
+
 Este repositório documenta a criação de uma identidade visual individual para o **Bootcamp de Agentes de IA da Deloitte**, desenvolvida com auxílio de ferramentas de Inteligência Artificial Generativa da OpenAI.
 
 O objetivo foi explorar a aplicação de **Prompt Engineering** na criação de uma identidade visual que combinasse elementos de inteligência artificial, automação e sistemas multiagentes com a estética corporativa da Deloitte.
